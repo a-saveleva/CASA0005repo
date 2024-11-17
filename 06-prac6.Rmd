@@ -7,7 +7,7 @@
 By the end of this practical you should be able to:
 
 1. Describe and evaluate methods for analysing spatial patterns 
-1. Execute data cleaning and manipulation appropairte for analysis 
+1. Execute data cleaning and manipulation appropriate for analysis 
 1. Determine the locations of spatial clusters using point pattern analysis methods
 
 ## Homework 
